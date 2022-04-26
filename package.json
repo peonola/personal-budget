@@ -1,0 +1,23 @@
+{
+  "name": "personal-budget",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peonola/personal-budget.git"
+  },
+  "author": "Peonola",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peonola/personal-budget/issues"
+  },
+  "homepage": "https://github.com/peonola/personal-budget#readme",
+  "dependencies": {
+    "express": "^4.18.0",
+    "nodemon": "^2.0.15"
+  }
+}
