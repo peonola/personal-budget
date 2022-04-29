@@ -1,1 +1,9 @@
-[{"id":0,"name":"bills","budget":600}]
+[
+  { "id": 0, "name": "bills", "budget": 800 },
+  { "id": 1, "name": "rent", "budget": 700 },
+  { "id": 2, "name": "fun", "budget": 500 },
+  { "id": 6, "name": "fun", "budget": 1400 },
+  { "id": 7, "name": "asd", "budget": 134 },
+  { "id": 8, "name": "asd", "budget": 134 },
+  { "id": 9, "name": "test", "budget": 300 }
+]
